@@ -37,7 +37,7 @@ This project is a React-based password generator that allows users to create sec
     npm run dev
     ```
 
-2. Open your browser and navigate to `http://localhost:5173` to view the application.
+2. Open your browser and navigate to [http://localhost:5173](http://localhost:5173) to view the application.
 
 ## Usage
 
