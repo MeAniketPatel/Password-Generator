@@ -37,7 +37,7 @@ This project is a React-based password generator that allows users to create sec
     npm run dev
     ```
 
-2. Open your browser and navigate to `http://localhost:3000` to view the application.
+2. Open your browser and navigate to `http://localhost:5173` to view the application.
 
 ## Usage
 
@@ -45,9 +45,6 @@ Once the application is running, you can:
 - Choose password length.
 - Select different criteria (e.g., include symbols, numbers).
 - Generate a password and copy it to your clipboard.
-
-
-If you’d like to contribute to this project, please fork the repository and submit a pull request with your changes. For detailed guidelines, refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## Troubleshooting
 
