@@ -17,7 +17,7 @@ This project is a React-based password generator that allows users to create sec
 
 ### Step 2: Open the Terminal in VS Code
 
-1. Open the terminal by pressing Ctrl + ` or by selecting **Terminal** > **New Terminal** from the top menu.
+1. Open the terminal by pressing `Ctrl + `` (backtick) or by selecting **Terminal** > **New Terminal** from the top menu.
 
 ### Step 3: Clone the Repository and Install Dependencies
 
@@ -37,7 +37,7 @@ This project is a React-based password generator that allows users to create sec
     npm run dev
     ```
 
-2. Open your browser and navigate to [http://localhost:5173](http://localhost:5173) to view the application.
+2. Open your browser and navigate to <a href="http://localhost:5173" target="_blank">http://localhost:5173</a> to view the application.
 
 ## Usage
 
